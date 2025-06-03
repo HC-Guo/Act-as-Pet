@@ -1,0 +1,8 @@
+nltk_data_path: ./nltk_data/
+bge_path: BAAI\bge-base-en-v1.5
+model_url: Qwen\Qwen2.5-0.5B-Instruct
+data_root_path: ./data
+data_name_list:
+- PetRoutine_Level_I
+eval_llm_url: xxxxx
+eval_llm_api_key: xxxxx
