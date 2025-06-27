@@ -25,3 +25,8 @@
 - `data_name_list`: List of datasets to be evaluated.
 - `eval_llm_url`: LLM URL passed to the `curl_llm` function.
 - `eval_llm_api_key`: Corresponding API key.
+
+
+### More data analysis
+
+[Supplementary Material](./supplementary_material_for_Pet-Bench.pdf)
